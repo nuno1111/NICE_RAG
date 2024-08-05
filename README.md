@@ -1,6 +1,6 @@
 ### NICE RAG 데모
 
-## "나이스비즈맵_상세보고서.pdf"를 소스로 하여 RAG로 구성하였습니다.
+## [나이스비즈맵_상세보고서.pdf]를 소스로 하여 RAG로 구성하였습니다.
 
 ## data_processing.ipynb
 
@@ -15,5 +15,5 @@
 - 검색이력을 저장하고 조회하는 예시입니다.
 
 
-### 라이브러리 설치
+## 라이브러리 설치
 pip install streamlit langchain_community requests_aws4auth PyMuPDF requests python-dotenv boto3 opensearch-py
